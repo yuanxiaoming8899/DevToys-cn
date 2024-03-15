@@ -1,191 +1,179 @@
-<p align="center">
-  <img width="128" align="center" src="/assets/logo/Icon-Windows-Linux.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/DevToys-app/DevToys/blob/main/assets/logo/Icon-Windows-Linux.png"><img width="128" align="center" src="/DevToys-app/DevToys/raw/main/assets/logo/Icon-Windows-Linux.png" style="max-width: 100%;"></a>
 </p>
-<h1 align="center">
-  DevToys
-</h1>
-<p align="center">
-  A Swiss Army knife for developers.
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  开发玩具
+</font></font></h1><a id="user-content---devtoys" class="anchor" aria-label="永久链接：DevToys
+" href="#--devtoys"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  开发人员的瑞士军刀。
+</font></font></p>
+<p align="center" dir="auto">
+  <a href="https://etienne-baudoux.visualstudio.com/DevToys/_build?definitionId=19&amp;branchName=main" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/215739d5484a702144469d97213503b4a03b458e7d166f0fde2d52aa3c3ae4ec/68747470733a2f2f657469656e6e652d626175646f75782e76697375616c73747564696f2e636f6d2f446576546f79732f5f617069732f6275696c642f7374617475732f446576546f79733f6272616e63684e616d653d6d61696e" alt="构建状态" data-canonical-src="https://etienne-baudoux.visualstudio.com/DevToys/_apis/build/status/DevToys?branchName=main" style="max-width: 100%;">
+  </a>
+  <a title="克罗丁" href="https://crowdin.com/project/devtoys" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/67cd056514b15f17deed98b3cd5cba09e829bbb819cde505964ef34236a7dfd2/68747470733a2f2f6261646765732e63726f7764696e2e6e65742f646576746f79732f6c6f63616c697a65642e737667" data-canonical-src="https://badges.crowdin.net/devtoys/localized.svg" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/DevToys-app/DevToys/releases">
+    <img src="https://camo.githubusercontent.com/45e53db44271beec49d14cc96648dc174bf48a759ca23d95bb3e1c03bc0dab76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f446576546f79732d6170702f446576546f79732e7376673f6c6162656c3d4c617465737425323076657273696f6e" alt="最新版本" data-canonical-src="https://img.shields.io/github/release/DevToys-app/DevToys.svg?label=Latest%20version" style="max-width: 100%;">
+  </a>
+  <a href="https://community.chocolatey.org/packages/devtoys" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/1f05493633e3f5d3875271eb8fe02fd47f998638697a1f8d1f59e5c43e86d27d/68747470733a2f2f696d672e736869656c64732e696f2f63686f636f6c617465792f762f646576746f79733f696e636c7564655f70726572656c6561736573" alt="巧克力版（包括预发行版）" data-canonical-src="https://img.shields.io/chocolatey/v/devtoys?include_prereleases" style="max-width: 100%;">
+  </a>
+  <a href="https://www.microsoft.com/store/apps/9PGCV4V3BK4W" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/76e03af7970edb0d132924e55b7b3db5884b3b3b432d3cde9f7658754dce9ca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053746f72652d446f776e6c6f61642d627269676874677265656e" alt="店铺链接" data-canonical-src="https://img.shields.io/badge/Microsoft%20Store-Download-brightgreen" style="max-width: 100%;">
+  </a>
+  <a href="https://devtoys.app" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f84ffca21cc10c3ef1fb34422eaacf0270445e68223654f9a85e97baaed55fbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d646576746f79732e6170702d626c7565" alt="网站" data-canonical-src="https://img.shields.io/badge/Website-devtoys.app-blue" style="max-width: 100%;">
+  </a>
 </p>
-<p align="center">
-  <a style="text-decoration:none" href="https://etienne-baudoux.visualstudio.com/DevToys/_build?definitionId=19&branchName=main" target="_blank">
-    <img src="https://etienne-baudoux.visualstudio.com/DevToys/_apis/build/status/DevToys?branchName=main" alt="Build Status" />
-  </a>
-  <a title="Crowdin" target="_blank" href="https://crowdin.com/project/devtoys">
-    <img src="https://badges.crowdin.net/devtoys/localized.svg">
-  </a>
-  <a style="text-decoration:none" href="https://github.com/DevToys-app/DevToys/releases" target="_blank">
-    <img src="https://img.shields.io/github/release/DevToys-app/DevToys.svg?label=Latest%20version" alt="Latest version" />
-  </a>
-  <a style="text-decoration:none" href="https://community.chocolatey.org/packages/devtoys" target="_blank">
-    <img src="https://img.shields.io/chocolatey/v/devtoys?include_prereleases" alt="Chocolatey Version (including pre-releases)">
-  </a>
-  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9PGCV4V3BK4W" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Store-Download-brightgreen" alt="Store link" />
-  </a>
-  <a style="text-decoration:none" href="https://devtoys.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-devtoys.app-blue" alt="Website" />
-  </a>
-</p>
-
-## Introduction
-
-DevToys helps with daily development tasks like formatting JSON, comparing text, and testing RegExp. No need to use many untrustworthy websites to do simple tasks with your data. With Smart Detection, DevToys can detect the best tool to use for the data copied to the Windows clipboard. Compact overlay lets you keep the app small and on top of other windows. Multiple instances of the app can be used at once.
-
-Many tools are available.
-
-- Converters
-  - JSON <> YAML
-  - Timestamp
-  - Number Base
-  - Cron Parser
-- Encoders / Decoders
-  - HTML
-  - URL
-  - Base64 Text & Image
-  - GZip
-  - JWT Decoder
-- Formatters
-  - JSON
-  - SQL
-  - XML
-- Generators
-  - Hash (MD5, SHA1, SHA256, SHA512)
-  - UUID 1 and 4
-  - Lorem Ipsum
-  - Checksum
-- Text
-  - Escape / Unescape
-  - Inspector & Case Converter
-  - Regex Tester
-  - Text Comparer
-  - XML Validator
-  - Markdown Preview
-- Graphic
-  - Color Blindness Simulator
-  - Color Picker & Contrast
-  - PNG / JPEG Compressor
-  - Image Converter
-
-... and more are coming!
-
-![DevToys](/assets/screenshots/1.png)
-
-## Rate on Microsoft Store as of 5/23/2022
-
-![Microsoft Store rate](/assets/ms-store-rate.png)
-
-## How to install (as an end-user)
-
-### Prerequisite
-
-- You need Windows 10 build 1903+ or later.
-
-### Microsoft Store
-
-- Search for DevToys in the Microsoft Store App or click [here](https://www.microsoft.com/store/apps/9PGCV4V3BK4W)
-
-### Manual
-
-- Download and extract the latest [release](https://github.com/veler/DevToys/releases).
-- Double click the *.msixbundle file.
-- Install.
-
-### WinGet
-
-- Open a PowerShell command prompt.
-- Type `winget search DevToys` to search and see details about DevToys.
-- Type `winget install DevToys` to install the app.
-
-__Note:__ a Microsoft Store account is required for WinGet. We're trying to workaround it. See here https://github.com/microsoft/winget-pkgs/pull/43996
-
-### Chocolatey
-
-- Make sure you already have [Chocolatey](https://chocolatey.org/) installed on your computer.
-- Open a PowerShell command prompt.
-- Type `choco install devtoys` or visit the [chocolatey community package](https://community.chocolatey.org/packages/devtoys/).
-
-## App Permission
-
-DevToys works entirely offline, meaning that none of the data used by the app goes on internet. However, the app requires some other permissions in order to work correctly.
-
-1. `Uses all system resources` - This permission is required for some tools like `PNG / JPEG Compressor` or (upcoming) `On-screen color picker / measurer`, which use a 3rd party Open-Source Win32 process like [Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool).
-   All the code requiring this permission can be found [here](https://github.com/veler/DevToys/tree/main/src/dev/impl/DevToys.OutOfProcService).
-
-## How to run DevToys
-
-### Using Start Menu
-
-Open Windows start menu, type `DevToys` and press `[Enter]`.
-
-### Using PowerShell
-
-A cool thing about DevToys is that you can start it in command line! For this, simply open a PowerShell command prompt and type
-`start devtoys:?tool={tool name}`
-
-For example, `start devtoys:?tool=jsonyaml` will open DevToys and start on the `Json <> Yaml` tool.
-
-Here is the list of tool name you can use:
-
-- `base64` - Base64 Text Encoder/Decoder
-- `base64img` - Base64 Image Encoder/Decoder
-- `gzip` - GZip Encoder/Decoder
-- `hash` - Hash Generator
-- `uuid` - UUID Generator
-- `loremipsum` - Lorem Ipsum Generator
-- `checksum` - Checksum File
-- `cronparser` - Cron Parser
-- `jsonformat` Json Formatter
-- `sqlformat` - SQL Formatter
-- `xmlformat` - XML Formatter
-- `jsonyaml` - Json <> Yaml
-- `jwt` - JWT Decoder
-- `colorblind` - Color Blindness Simulator
-- `color` - Color Picker & Contrast
-- `imgcomp` - PNG/JPEG compressor
-- `imageconverter` - Image Converter
-- `markdown` - Markdown Preview
-- `regex` - Regular Expression Tester
-- `time` - Unix Timestamp Converter
-- `baseconverter` - Number Base Converter
-- `string` - String Utilities
-- `url` - URL Encoder/Decoder
-- `html` - HTML Encoder/Decoder
-- `diff` - Text Comparer
-- `xmlvalidator` - XML Validator
-- `escape` - Text Escape / Unescape
-- `settings` - Settings
-
-## Contribute
-
-See [CONTRIBUTING](CONTRIBUTING.md)
-
-## Privacy Policy
-
-See [PRIVACY POLICY](PRIVACY-POLICY.md)
-
-## Third-Party Softwares
-
-See [ThirdPartyNotices](THIRD-PARTY-NOTICES.md)
-
-## License
-
-See [LICENSE](LICENSE.md)
-
-### A few words regarding the license
-
-DevToys is using a license that permits redistribution of the app as trialware or shareware without changes. However, the authors [Etienne BAUDOUX](https://github.com/veler) and [BenjaminT](https://github.com/btiteux) would prefer you not. If you believe you have a strong reason to do so, kindly reach out to discuss with us first.
-
-## Special Thanks
-
-### Code contributors
-
-![Alt](https://repobeats.axiom.co/api/embed/324efe7f02eac0ea57d264c986651a346e86caf9.svg "Repobeats analytics image")
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevToys 帮助完成日常开发任务，例如格式化 JSON、比较文本和测试 RegExp。</font><font style="vertical-align: inherit;">无需使用许多不可信的网站来处理您的数据执行简单的任务。</font><font style="vertical-align: inherit;">通过智能检测，DevToys 可以检测用于复制到 Windows 剪贴板的数据的最佳工具。</font><font style="vertical-align: inherit;">紧凑的覆盖让您可以保持应用程序较小并位于其他窗口之上。</font><font style="vertical-align: inherit;">可以同时使用该应用程序的多个实例。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有许多工具可用。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">转换器
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSON &lt;&gt; YAML</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时间戳</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数基数</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计划任务解析器</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编码器/解码器
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超文本标记语言</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网址</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base64 文本和图像</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">压缩包</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智威汤逊解码器</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">格式化程序
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSON</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XML</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发电机
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">哈希（MD5、SHA1、SHA256、SHA512）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UUID 1 和 4</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">洛雷姆·伊普苏姆</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">校验和</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">逃脱/逃脱</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检验员和箱子转换器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正则表达式测试器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本比较器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XML验证器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">降价预览</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">形象的
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">色盲模拟器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">颜色选择器和对比度</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PNG / JPEG 压缩器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像转换器</font></font></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">...还有更多即将推出！</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/DevToys-app/DevToys/blob/main/assets/screenshots/1.png"><img src="/DevToys-app/DevToys/raw/main/assets/screenshots/1.png" alt="开发玩具" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截至 2022 年 5 月 23 日的 Microsoft Store 价格</font></font></h2><a id="user-content-rate-on-microsoft-store-as-of-5232022" class="anchor" aria-label="固定链接：截至 2022 年 5 月 23 日 Microsoft Store 的价格" href="#rate-on-microsoft-store-as-of-5232022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/DevToys-app/DevToys/blob/main/assets/ms-store-rate.png"><img src="/DevToys-app/DevToys/raw/main/assets/ms-store-rate.png" alt="微软商店费率" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何安装（作为最终用户）</font></font></h2><a id="user-content-how-to-install-as-an-end-user" class="anchor" aria-label="永久链接：如何安装（作为最终用户）" href="#how-to-install-as-an-end-user"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">先决条件</font></font></h3><a id="user-content-prerequisite" class="anchor" aria-label="永久链接：先决条件" href="#prerequisite"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您需要 Windows 10 内部版本 1903+ 或更高版本。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微软商店</font></font></h3><a id="user-content-microsoft-store" class="anchor" aria-label="永久链接：微软商店" href="#microsoft-store"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Microsoft Store 应用中搜索 DevToys 或单击</font></font><a href="https://www.microsoft.com/store/apps/9PGCV4V3BK4W" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手动的</font></font></h3><a id="user-content-manual" class="anchor" aria-label="永久链接：手册" href="#manual"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载并解压最新</font></font><a href="https://github.com/veler/DevToys/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">双击 *.msixbundle 文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WinGet</font></font></h3><a id="user-content-winget" class="anchor" aria-label="永久链接：WinGet" href="#winget"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 PowerShell 命令提示符。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">输入</font></font><code>winget search DevToys</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容进行搜索并查看有关 DevToys 的详细信息。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">键入</font></font><code>winget install DevToys</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以安装应用程序。</font></font></li>
+</ul>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> WinGet 需要 Microsoft Store 帐户。</font><font style="vertical-align: inherit;">我们正在尝试解决这个问题。</font><font style="vertical-align: inherit;">请参阅此处</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1118457253" data-permission-text="Title is private" data-url="https://github.com/microsoft/winget-pkgs/issues/43996" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/winget-pkgs/pull/43996/hovercard" href="https://github.com/microsoft/winget-pkgs/pull/43996"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">microsoft/winget-pkgs#43996</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">巧克力味</font></font></h3><a id="user-content-chocolatey" class="anchor" aria-label="永久链接： 巧克力味" href="#chocolatey"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">确保您的计算机上已安装</font></font><a href="https://chocolatey.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chocolatey</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 PowerShell 命令提示符。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">输入</font></font><code>choco install devtoys</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或访问</font></font><a href="https://community.chocolatey.org/packages/devtoys/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">巧克力社区包</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序权限</font></font></h2><a id="user-content-app-permission" class="anchor" aria-label="永久链接：应用程序权限" href="#app-permission"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevToys 完全离线工作，这意味着该应用程序使用的任何数据都不会传输到互联网上。</font><font style="vertical-align: inherit;">但是，该应用程序需要一些其他权限才能正常工作。</font></font></p>
+<ol dir="auto">
+<li><code>Uses all system resources</code><font style="vertical-align: inherit;"></font><code>PNG / JPEG Compressor</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 某些工具（如或 （即将推出））</font><font style="vertical-align: inherit;">需要此权限</font></font><code>On-screen color picker / measurer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，这些工具使用第 3 方开源 Win32 进程（如</font></font><a href="https://github.com/fhanau/Efficient-Compression-Tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Efficient- Compression-Tool ）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">所有需要此权限的代码都可以</font></font><a href="https://github.com/veler/DevToys/tree/main/src/dev/impl/DevToys.OutOfProcService"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何运行 DevToys</font></font></h2><a id="user-content-how-to-run-devtoys" class="anchor" aria-label="永久链接：如何运行 DevToys" href="#how-to-run-devtoys"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用开始菜单</font></font></h3><a id="user-content-using-start-menu" class="anchor" aria-label="永久链接：使用开始菜单" href="#using-start-menu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 Windows 开始菜单，键入</font></font><code>DevToys</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并按</font></font><code>[Enter]</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用PowerShell</font></font></h3><a id="user-content-using-powershell" class="anchor" aria-label="永久链接：使用 PowerShell" href="#using-powershell"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevToys 的一个很酷的事情是您可以在命令行中启动它！</font><font style="vertical-align: inherit;">为此，只需打开 PowerShell 命令提示符并输入
+</font></font><code>start devtoys:?tool={tool name}</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例如，</font></font><code>start devtoys:?tool=jsonyaml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将打开 DevToys 并启动该</font></font><code>Json &lt;&gt; Yaml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工具。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是您可以使用的工具名称列表：</font></font></p>
+<ul dir="auto">
+<li><code>base64</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Base64 文本编码器/解码器</font></font></li>
+<li><code>base64img</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Base64 图像编码器/解码器</font></font></li>
+<li><code>gzip</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- GZip 编码器/解码器</font></font></li>
+<li><code>hash</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 哈希生成器</font></font></li>
+<li><code>uuid</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- UUID生成器</font></font></li>
+<li><code>loremipsum</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Lorem Ipsum 生成器</font></font></li>
+<li><code>checksum</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 校验和文件</font></font></li>
+<li><code>cronparser</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Cron 解析器</font></font></li>
+<li><code>jsonformat</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Json 格式化程序</font></font></li>
+<li><code>sqlformat</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- SQL 格式化程序</font></font></li>
+<li><code>xmlformat</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- XML 格式化程序</font></font></li>
+<li><code>jsonyaml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Json &lt;&gt; Yaml</font></font></li>
+<li><code>jwt</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- JWT解码器</font></font></li>
+<li><code>colorblind</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 色盲模拟器</font></font></li>
+<li><code>color</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 颜色选择器和对比度</font></font></li>
+<li><code>imgcomp</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- PNG/JPEG 压缩器</font></font></li>
+<li><code>imageconverter</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 图像转换器</font></font></li>
+<li><code>markdown</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Markdown 预览</font></font></li>
+<li><code>regex</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 正则表达式测试器</font></font></li>
+<li><code>time</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Unix时间戳转换器</font></font></li>
+<li><code>baseconverter</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 数基转换器</font></font></li>
+<li><code>string</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 字符串实用程序</font></font></li>
+<li><code>url</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- URL编码器/解码器</font></font></li>
+<li><code>html</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- HTML 编码器/解码器</font></font></li>
+<li><code>diff</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 文本比较器</font></font></li>
+<li><code>xmlvalidator</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- XML 验证器</font></font></li>
+<li><code>escape</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 文本转义/取消转义</font></font></li>
+<li><code>settings</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 设置</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contribute" class="anchor" aria-label="永久链接：贡献" href="#contribute"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/DevToys-app/DevToys/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">隐私政策</font></font></h2><a id="user-content-privacy-policy" class="anchor" aria-label="永久链接：隐私政策" href="#privacy-policy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/DevToys-app/DevToys/blob/main/PRIVACY-POLICY.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">隐私政策</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第三方软件</font></font></h2><a id="user-content-third-party-softwares" class="anchor" aria-label="永久链接：第三方软件" href="#third-party-softwares"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/DevToys-app/DevToys/blob/main/THIRD-PARTY-NOTICES.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第三方声明</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="/DevToys-app/DevToys/blob/main/LICENSE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于许可证的几句话</font></font></h3><a id="user-content-a-few-words-regarding-the-license" class="anchor" aria-label="永久链接：关于许可证的几句话" href="#a-few-words-regarding-the-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevToys 使用的许可证允许将应用程序作为试用软件或共享软件重新分发而无需进行任何更改。</font><font style="vertical-align: inherit;">然而，作者</font></font><a href="https://github.com/veler"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etienne BAUDOUX</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/btiteux"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BenjaminT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不希望你这样。</font><font style="vertical-align: inherit;">如果您认为自己有充分的理由这样做，请先联系我们讨论。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢</font></font></h2><a id="user-content-special-thanks" class="anchor" aria-label="永久链接： 特别感谢" href="#special-thanks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码贡献者</font></font></h3><a id="user-content-code-contributors" class="anchor" aria-label="永久链接：代码贡献者" href="#code-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e1afb9a1d61b0d3cc58570b029061df2087f3ddaf4158e1a80bf341ebe800e91/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f333234656665376630326561633065613537643236346339383636353161333436653836636166392e737667"><img src="https://camo.githubusercontent.com/e1afb9a1d61b0d3cc58570b029061df2087f3ddaf4158e1a80bf341ebe800e91/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f333234656665376630326561633065613537643236346339383636353161333436653836636166392e737667" alt="替代" title="Repobeats 分析图像" data-canonical-src="https://repobeats.axiom.co/api/embed/324efe7f02eac0ea57d264c986651a346e86caf9.svg" style="max-width: 100%;"></a></p>
 <a href="https://github.com/DevToys-app/DevToys/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DevToys-app/DevToys" />
+  <img src="https://camo.githubusercontent.com/9e343a2fb13d3398faacd26475f4fce666df62049f18c999fa7e6b96709d0036/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d446576546f79732d6170702f446576546f7973" data-canonical-src="https://contrib.rocks/image?repo=DevToys-app/DevToys" style="max-width: 100%;">
 </a>
-
-### Designers
-
-[Jakub](https://github.com/AlurDesign)
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计师</font></font></h3><a id="user-content-designers" class="anchor" aria-label="永久链接：设计师" href="#designers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/AlurDesign"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">雅库布</font></font></a></p>
+</article></div>
